@@ -1,2 +1,2 @@
 # tales
-http://jlc2270.github.io/tales
+http://mlm2300.github.io/tales
